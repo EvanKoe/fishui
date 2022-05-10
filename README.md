@@ -19,6 +19,7 @@ sudo apt install libqt5x11extras5-dev libkf5windowsystem-dev qtbase5-private-dev
 ```
 
 ## Build
+
 Before build, make sure you have necessary Qt environment.
 
 ```bash
